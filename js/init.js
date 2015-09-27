@@ -4,8 +4,8 @@ function display() {
 
 display.prototype = {
 	init: function() {
-		this.user_id = "7436400@N07" //my user id
-		this.album_id = "72157628491249937"; //album id
+		this.user_id = "8035175@N05"; //my user id
+		this.album_id = "72157646180913794"; //album id
 		this.api_key = "9d520a46c1a6edd7a8a769fda4288041";
 
 		window.output = this.output;
